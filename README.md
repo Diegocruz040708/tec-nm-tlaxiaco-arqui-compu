@@ -1,19 +1,20 @@
-# tec-nm-tlaxiaco-arqui-compu
+# TecNM Tlaxiaco - Arquitectura de Computadoras
 
 Repositorio Aquitectura de Computadoras 5BS
 Editado por Diego
 
 ## Evaluación
 
-### Prácticas 1-5 [?]%
+feat (feature:funcionalidad) :- nuevo
+fix (fix:arreglar) -: actualizacion
 
-### Proyecto final [?]%
+### Prácticas 1-5 30%
 
-### Examen [?]%
+### Proyecto final 25%
 
-### Participación [?]%
+### Examen 25%
 
-### Asistencia [?]%
+### Asistencia 20%
 
 ## Prácticas
 
